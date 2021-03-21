@@ -1,1 +1,1 @@
-# audio_visualization
+Different styles of visualization for audio files
